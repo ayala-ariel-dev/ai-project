@@ -16,10 +16,7 @@ services:
       - key: JWT_EXPIRES_IN
         value: 7d
       - key: CLIENT_ORIGIN
-        fromService:
-          type: web
-          name: ai-project-client
-          property: host
+        value: https://ai-project-client.onrender.com
 
   - type: web
     name: ai-project-client
