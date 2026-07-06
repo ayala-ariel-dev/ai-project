@@ -1,0 +1,52 @@
+.auth-title {
+  text-align: center;
+  color: #2f3a8f;
+  margin-bottom: 8px;
+}
+
+.auth-subtitle {
+  text-align: center;
+  color: #5a638f;
+  margin-bottom: 20px;
+}
+
+.auth-tabs {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  margin-bottom: 12px;
+}
+
+.auth-tab {
+  border: 1px solid #cfd4ff;
+  background: #f7f8ff;
+  color: #3b438d;
+  border-radius: 999px;
+  padding: 8px 16px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.auth-tab.active {
+  background: #e8ebff;
+  border-color: #9ea8ff;
+}
+
+.auth-hint {
+  text-align: center;
+  color: #4a4e73;
+  margin-bottom: 14px;
+}
+
+.google-auth-button {
+  display: flex;
+  justify-content: center;
+  min-height: 40px;
+  margin-bottom: 10px;
+}
+
+.auth-error {
+  color: #d13d67;
+  text-align: center;
+  margin: 0;
+}

@@ -1,0 +1,325 @@
+/* ---------- Home Title ---------- */
+.home-title {
+  text-align: center;
+  font-size: 2.2rem;
+  margin-bottom: 20px;
+  color: #6b75ff;
+}
+
+.home-subtitle {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #6b75ff;
+}
+
+.home-user-actions {
+  position: absolute;
+  top: 16px;
+  left: 16px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  max-width: min(320px, calc(100% - 190px));
+  direction: ltr;
+}
+
+.home-greeting {
+  min-width: 0;
+  direction: inherit;
+  color: #343b77;
+  font-size: 0.95rem;
+  font-weight: 700;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.logout-btn {
+  flex: 0 0 auto;
+  border: none;
+  border-radius: 999px;
+  padding: 8px 14px;
+  background: #ffecf0;
+  color: #b4234d;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.logout-btn:hover {
+  background: #ffdbe3;
+}
+
+.token-usage-meter {
+  width: min(320px, 100%);
+  margin: 0 auto 18px;
+  direction: inherit;
+  text-align: start;
+}
+
+.token-usage-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  color: #343b77;
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.token-usage-row strong {
+  color: #4a53b8;
+  font-size: 0.9rem;
+}
+
+.token-usage-track {
+  height: 7px;
+  margin: 5px 0 3px;
+  overflow: hidden;
+  background: #edf0ff;
+  border-radius: 999px;
+  box-shadow: inset 0 0 0 1px #dce2ff;
+}
+
+.token-usage-track span {
+  display: block;
+  height: 100%;
+  min-width: 4px;
+  background: #6b75ff;
+  border-radius: inherit;
+  transition: width 0.2s ease, background 0.2s ease;
+}
+
+.token-usage-meter small {
+  display: block;
+  color: #707699;
+  font-size: 0.72rem;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+}
+
+.token-usage-meter-medium .token-usage-track span {
+  background: #ffad4d;
+}
+
+.token-usage-meter-medium .token-usage-row strong {
+  color: #b46000;
+}
+
+.token-usage-meter-high .token-usage-track span {
+  background: #ff5a7a;
+}
+
+.token-usage-meter-high .token-usage-row strong {
+  color: #b4234d;
+}
+
+.onboarding-box,
+.progress-box {
+  background: #f8f9ff;
+  border: 1px solid #e2e6ff;
+  border-radius: 14px;
+  padding: 14px;
+  margin-bottom: 14px;
+}
+
+.onboarding-box h4,
+.progress-box h4 {
+  margin: 0 0 8px;
+  color: #4a53b8;
+}
+
+.onboarding-box p,
+.progress-box p {
+  margin: 4px 0;
+  color: #434a76;
+}
+
+.sample-btn {
+  margin-top: 8px;
+  border: none;
+  border-radius: 999px;
+  background: #e8ebff;
+  color: #404aaa;
+  font-weight: 600;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.sample-btn:hover {
+  background: #dce2ff;
+}
+
+.loader-message {
+  text-align: center;
+  color: #5b62a5;
+  margin-top: 6px;
+}
+
+.file-upload-box {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 14px;
+  margin-bottom: 18px;
+  background: #fff;
+  border: 1px dashed #b8c0ff;
+  border-radius: 8px;
+  transition: border-color 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
+}
+
+.file-upload-box.dragging {
+  background: #f2f5ff;
+  border-color: #6b75ff;
+  box-shadow: 0 0 0 3px rgba(107, 117, 255, 0.12);
+}
+
+.file-upload-input {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+}
+
+.file-upload-btn {
+  flex: 0 0 auto;
+  border: none;
+  border-radius: 8px;
+  background: #e8ebff;
+  color: #404aaa;
+  font-weight: 700;
+  padding: 9px 13px;
+  cursor: pointer;
+}
+
+.file-upload-btn:hover {
+  background: #dce2ff;
+}
+
+.file-upload-copy {
+  display: flex;
+  flex: 1;
+  min-width: 0;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.file-upload-copy strong,
+.file-upload-copy span {
+  min-width: 0;
+  color: #4f557d;
+  font-size: 0.95rem;
+  overflow-wrap: anywhere;
+}
+
+.file-upload-copy span {
+  color: #73799d;
+  font-size: 0.88rem;
+}
+
+/* ---------- Saved Text ---------- */
+.saved-text-box {
+  position: relative;
+  background: #f5f7ff;
+  border-radius: 16px;
+  padding: 20px;
+  margin-bottom: 24px;
+  box-shadow: inset 0 0 0 1px #e3e7ff;
+}
+
+.saved-text-box p {
+  margin: 0;
+  white-space: pre-wrap;
+  line-height: 1.6;
+  color: #444;
+  direction: inherit;
+  text-align: start;
+}
+
+/* ---------- Clear Button ---------- */
+.clear-text-btn {
+  position: absolute;
+  top: 10px;
+  inset-inline-end: 10px;
+  border: none;
+  background: #ffffff;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  font-size: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: all 0.2s ease;
+}
+
+.clear-text-btn:hover {
+  background: #ffecec;
+  transform: scale(1.05);
+}
+
+/* ---------- Actions ---------- */
+.home-actions {
+  margin-top: 28px;
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* ---------- Textarea (אם אין לך כבר) ---------- */
+.my-textarea {
+  width: 97%;
+  min-height: 120px;
+  padding: 10px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  border: 2px solid #c3cafc;
+  font-family: inherit;
+  font-size: 16px;
+  resize: vertical;
+  outline: none;
+  transition: all 0.2s ease;
+  direction: inherit;
+  text-align: start;
+}
+
+.my-textarea:focus {
+  border-color: #6b75ff;
+  box-shadow: 0 0 0 3px rgba(107, 117, 255, 0.15);
+}
+
+.error-message {
+  color: #f28b8b;
+  text-align: center;
+  margin-top: 16px;
+  font-weight: 600;
+}
+
+.loader {
+  color: #8b99f2;
+  text-align: center;
+  margin-top: 16px;
+  font-weight: 600;
+}
+
+@media (max-width: 560px) {
+  .home-user-actions {
+    top: 12px;
+    left: 12px;
+    max-width: calc(100% - 170px);
+  }
+
+  .logout-btn {
+    padding: 7px 10px;
+  }
+
+  .file-upload-box {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .file-upload-btn {
+    text-align: center;
+  }
+}

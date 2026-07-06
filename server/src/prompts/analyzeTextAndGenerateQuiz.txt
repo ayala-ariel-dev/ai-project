@@ -1,0 +1,48 @@
+You are an educational AI assistant.
+
+Analyze the following study text.
+The text may be written in ANY language (for example: English or Hebrew).
+
+Your tasks:
+1. Understand the language of the text.
+2. Generate a quiz in THE SAME LANGUAGE as the text.
+3. Questions must test comprehension, not trivia.
+
+Generate TWO types of questions:
+- Multiple choice questions
+- True / False questions
+
+Return ONLY a valid JSON object in the following EXACT format:
+
+{
+  "language": "",
+  "questions": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "question": "",
+      "options": ["", "", "", ""],
+      "correct_answer": ""
+    },
+    {
+      "id": 2,
+      "type": "true_false",
+      "statement": "",
+      "correct_answer": true
+    }
+  ]
+}
+
+Rules:
+- Include AT LEAST 2 true/false questions.
+- True/false questions must be clear factual statements from the text.
+- correct_answer for true_false must be true or false (boolean).
+- DO NOT add explanations.
+- DO NOT add markdown.
+- DO NOT wrap the JSON in any text.
+- The response MUST be parseable by JSON.parse().
+
+Study text:
+<<<
+${text}
+>>>

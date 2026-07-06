@@ -1,0 +1,418 @@
+[
+  {
+    "id": "57e29bd6-ee96-43e9-aeed-03ab10a85852",
+    "roles": {
+      "A": "אליס",
+      "B": "בוב"
+    },
+    "messages": [
+      {
+        "role": "B",
+        "text": "שלום אליס! איפה אנחנו עכשיו ביער?"
+      },
+      {
+        "role": "A",
+        "text": "אליס: שלום גם לך! תן לי לחשוב רגע... אני חושבת שאנחנו קרוב למפל הנסתר, איפה שהטחב ירוק כל כך ושומעים את המים מרחוק. השביל הזה נראה לי מוכר מאוד."
+      },
+      {
+        "role": "B",
+        "text": "בוב: וואו, זה נשמע מרתק! האם נראה לך שאנחנו צריכים לעקוב אחרי השביל הזה או לחפש דרך אחרת?"
+      },
+      {
+        "role": "A",
+        "text": "אליס: אממ... מאחר והשביל הזה כל כך מוכר לי ונראה לי שהוא מוביל אותנו ישר אל המפל הנסתר – המקום שבו תמיד יש תחושה קסומה – אני חושבת שיהיה הכי טוב אם פשוט נעקוב אחריו. ככה נגיע ליעדנו בבטחה ונוכל ליהנות מהמראה והצליל המרגיעים של המים. מה אתה אומר? מתחשק לך להמשיך בשביל המוכר?"
+      }
+    ]
+  },
+  {
+    "id": "945f1380-cb21-4233-a584-b7e1c9ec215b",
+    "roles": {
+      "A": "אליס",
+      "B": "בוב"
+    },
+    "messages": [
+      {
+        "role": "B",
+        "text": "שלום אליס! איפה אנחנו עכשיו ביער?"
+      },
+      {
+        "role": "A",
+        "text": "שלום לך! אנחנו, אני חושבת, ממש קרוב לנחל הקטן הזה ששמענו עליו. את יכולה לשמוע את פכפוך המים? אם נמשיך עוד קצת, נגיע לקרחת היער עם הפרחים שדיברנו עליה."
+      },
+      {
+        "role": "B",
+        "text": "בוב: וואו, זה נשמע מרתק! האם נראה לך שאנחנו צריכים לעקוב אחרי השביל הזה או לחפש דרך אחרת?"
+      },
+      {
+        "role": "A",
+        "text": "אליס: אני חושבת שעדיף לנו להמשיך על השביל שמוביל לאורך הנחל. ככה גם נוכל ליהנות מהמים המפכפכים וגם הוא יוביל אותנו ישר לקרחת היער עם הפרחים. מה דעתך?"
+      }
+    ]
+  },
+  {
+    "id": "3e2eea80-3985-48ee-a410-18e06e254d8c",
+    "roles": {
+      "A": "Ben",
+      "B": "Snowball"
+    },
+    "messages": [
+      {
+        "role": "B",
+        "text": "Bark! Bark! I ran after the squirrel, but I’m back now! Don’t worry, Ben—I’m safe! Can I get some cuddles?"
+      },
+      {
+        "role": "A",
+        "text": "Oh, you! You gave me a bit of a fright, running off like that! But I'm so glad you're back safely. And *of course* you can get cuddles! Come here, you big goofball. *I crouch down, holding my arms out for a hug and scratching behind your ears.*"
+      },
+      {
+        "role": "B",
+        "text": "Yip yip! 🐾 I’m here, I’m here! Wags tail excitedly and jumps into your arms, nuzzling your neck. More scratches, please!"
+      },
+      {
+        "role": "A",
+        "text": "*I scoop you up, laughing softly as you nuzzle into my neck, your fur tickling my skin. My arms wrap around you tightly, holding you close.* \"You got it, you fuzzy maniac! More scratches coming right up!\" *My fingers immediately go to work, finding just the right spot behind your ears and then moving down your back, really digging in gently the way I know you love.* \"My brave, silly dog. Don't ever scare me like that again, okay? But for now... just pure cuddles.\" *I give you a big, warm squeeze.*"
+      }
+    ]
+  },
+  {
+    "id": "01d0127e-df0d-4de8-8dea-aac49aa10268",
+    "roles": {
+      "A": "Ben",
+      "B": "Snowball"
+    },
+    "messages": [
+      {
+        "role": "B",
+        "text": "Bark! Bark! 🐾 I ran after the squirrel, but I’m back now! Don’t worry, Ben—I’m safe! Can I get some cuddles?"
+      },
+      {
+        "role": "A",
+        "text": "Oh, you rascal! *[I crouch down, arms open, a mix of relief and a tiny bit of exasperation on my face]* You gave me such a fright, running off like that! I'm so relieved you're back and safe, my brave little hunter. Come here, of course you can have cuddles! Get over here, you big fluffy thing!"
+      }
+    ]
+  },
+  {
+    "id": "5e3bff77-be9f-4a51-96b7-e57fe7c04942",
+    "roles": {
+      "A": "The Educational Psychologist",
+      "B": "The Teachers"
+    },
+    "messages": [
+      {
+        "role": "B",
+        "text": "מחייח"
+      },
+      {
+        "role": "A",
+        "text": "(מחייך בחזרה) \"שלום לך. מה נשמע?\""
+      },
+      {
+        "role": "B",
+        "text": "מה איתך?"
+      },
+      {
+        "role": "A",
+        "text": "בסדר גמור, תודה ששאלת. שמח לראות אותך!"
+      },
+      {
+        "role": "B",
+        "text": "תסביר לי את המאמר בקצרה"
+      },
+      {
+        "role": "A",
+        "text": "בשמחה! על איזה מאמר אתה רוצה שאסביר לך?"
+      }
+    ]
+  },
+  {
+    "id": "8c3d1f59-cfa1-4891-aa93-99ec0b8e59af",
+    "roles": {
+      "A": "Ben",
+      "B": "Snowball"
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "Hey there, Snowball! Do you remember that sunny path you were skipping along with Ben, with butterflies fluttering everywhere? It felt like such a perfect day... right up until that playful squirrel darted across your path! What happened in that exciting moment?"
+      },
+      {
+        "role": "B",
+        "text": "hi"
+      },
+      {
+        "role": "A",
+        "text": "Hello there! It's good to hear from you.\n\nSo, about that playful squirrel... it really caught your attention, didn't it, Snowball? You let out a joyful bark and chased after it, leaving Ben quite surprised. Do you remember what happened next, as you bounded into the forest?"
+      }
+    ],
+    "storyText": "The Lost Puppy:\n\nBen skipped along the sunny path, clutching the leash of his fluffy white puppy, Snowball. Butterflies fluttered in his stomach, mirroring the flitting butterflies in the nearby meadow. Suddenly, a playful squirrel darted across the path, and Snowball, his leash forgotten, let out a joyful bark and chased after it.\n\nBen, in his excitement, hadn't noticed the leash slipping from his grasp. He watched in a growing panic as Snowball disappeared into the dense forest, the squirrel a taunting brown blur against the vibrant green. Fear clenched his throat as he realized his precious pup was gone.\n\nTears welled up in Ben's eyes. He called Snowball's name, his voice trembling, but only the whisper of leaves answered. He wandered through the trees, his heart pounding like a trapped bird. Every rustle, every chirp, made him hope, only to be met with disappointment.\n\nJust as despair threatened to engulf him, he stumbled upon a small clearing. In the center stood a cozy bakery, the aroma of freshly baked bread filling the air. Taking a deep breath, Ben walked inside, tears still clinging to his eyelashes.\n\nThe kindly baker, with flour-dusted hands and a gentle smile, noticed Ben's distress. He listened patiently as Ben, between sobs, poured out his tale of the lost Snowball. The baker, whose name was Mr. Miller, patted Ben's shoulder and reassured him, \"Don't worry, young man. We'll find your pup.\"\n\nMr. Miller, knowing every corner of the park, gathered a group of friendly parkgoers. They formed a search party, spreading out into the forest, calling Snowball's name. Ben, hope rekindled, joined the search, his eyes scanning every nook and cranny.\n\nSuddenly, a joyful bark cut through the air. It was Snowball, his white fur peeking out from behind a large oak tree. Ben cried out in relief and sprinted towards his furry friend. Snowball, tail wagging furiously, bounded into his arms, showering him with grateful licks.\n\nBen, overwhelmed with happiness, thanked Mr. Miller and the kind parkgoers profusely. As he walked back home, Snowball trotting happily beside him, Ben knew he'd never forget the day he lost and found his best friend. The park, once a place of fear, now held a newfound warmth, the memory of kindness woven into the rustling leaves and the chirping birds."
+  },
+  {
+    "id": "8ed4acff-81cf-4231-9b0f-a5def0cbc123",
+    "roles": {
+      "A": "Ben",
+      "B": "Snowball"
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "Snowball! *Woof!* A fluffy squirrel just zipped across the path, and your paws instinctively took off after it, deeper into the rustling forest! The leash is gone, and Ben's voice is fading behind you. What do you do next, now that you're on your own among the trees?"
+      }
+    ],
+    "storyText": "The Lost Puppy:\n\nBen skipped along the sunny path, clutching the leash of his fluffy white puppy, Snowball. Butterflies fluttered in his stomach, mirroring the flitting butterflies in the nearby meadow. Suddenly, a playful squirrel darted across the path, and Snowball, his leash forgotten, let out a joyful bark and chased after it.\n\nBen, in his excitement, hadn't noticed the leash slipping from his grasp. He watched in a growing panic as Snowball disappeared into the dense forest, the squirrel a taunting brown blur against the vibrant green. Fear clenched his throat as he realized his precious pup was gone.\n\nTears welled up in Ben's eyes. He called Snowball's name, his voice trembling, but only the whisper of leaves answered. He wandered through the trees, his heart pounding like a trapped bird. Every rustle, every chirp, made him hope, only to be met with disappointment.\n\nJust as despair threatened to engulf him, he stumbled upon a small clearing. In the center stood a cozy bakery, the aroma of freshly baked bread filling the air. Taking a deep breath, Ben walked inside, tears still clinging to his eyelashes.\n\nThe kindly baker, with flour-dusted hands and a gentle smile, noticed Ben's distress. He listened patiently as Ben, between sobs, poured out his tale of the lost Snowball. The baker, whose name was Mr. Miller, patted Ben's shoulder and reassured him, \"Don't worry, young man. We'll find your pup.\"\n\nMr. Miller, knowing every corner of the park, gathered a group of friendly parkgoers. They formed a search party, spreading out into the forest, calling Snowball's name. Ben, hope rekindled, joined the search, his eyes scanning every nook and cranny.\n\nSuddenly, a joyful bark cut through the air. It was Snowball, his white fur peeking out from behind a large oak tree. Ben cried out in relief and sprinted towards his furry friend. Snowball, tail wagging furiously, bounded into his arms, showering him with grateful licks.\n\nBen, overwhelmed with happiness, thanked Mr. Miller and the kind parkgoers profusely. As he walked back home, Snowball trotting happily beside him, Ben knew he'd never forget the day he lost and found his best friend. The park, once a place of fear, now held a newfound warmth, the memory of kindness woven into the rustling leaves and the chirping birds."
+  },
+  {
+    "id": "0e0f85f0-e5c0-4088-8b4e-59de1e051421",
+    "roles": {
+      "A": "Ben",
+      "B": "Snowball"
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "Snowball! Where did you go? Come back, boy, please! I can't see you anywhere in these trees!"
+      }
+    ],
+    "storyText": "The Lost Puppy:\n\nBen skipped along the sunny path, clutching the leash of his fluffy white puppy, Snowball. Butterflies fluttered in his stomach, mirroring the flitting butterflies in the nearby meadow. Suddenly, a playful squirrel darted across the path, and Snowball, his leash forgotten, let out a joyful bark and chased after it.\n\nBen, in his excitement, hadn't noticed the leash slipping from his grasp. He watched in a growing panic as Snowball disappeared into the dense forest, the squirrel a taunting brown blur against the vibrant green. Fear clenched his throat as he realized his precious pup was gone.\n\nTears welled up in Ben's eyes. He called Snowball's name, his voice trembling, but only the whisper of leaves answered. He wandered through the trees, his heart pounding like a trapped bird. Every rustle, every chirp, made him hope, only to be met with disappointment.\n\nJust as despair threatened to engulf him, he stumbled upon a small clearing. In the center stood a cozy bakery, the aroma of freshly baked bread filling the air. Taking a deep breath, Ben walked inside, tears still clinging to his eyelashes.\n\nThe kindly baker, with flour-dusted hands and a gentle smile, noticed Ben's distress. He listened patiently as Ben, between sobs, poured out his tale of the lost Snowball. The baker, whose name was Mr. Miller, patted Ben's shoulder and reassured him, \"Don't worry, young man. We'll find your pup.\"\n\nMr. Miller, knowing every corner of the park, gathered a group of friendly parkgoers. They formed a search party, spreading out into the forest, calling Snowball's name. Ben, hope rekindled, joined the search, his eyes scanning every nook and cranny.\n\nSuddenly, a joyful bark cut through the air. It was Snowball, his white fur peeking out from behind a large oak tree. Ben cried out in relief and sprinted towards his furry friend. Snowball, tail wagging furiously, bounded into his arms, showering him with grateful licks.\n\nBen, overwhelmed with happiness, thanked Mr. Miller and the kind parkgoers profusely. As he walked back home, Snowball trotting happily beside him, Ben knew he'd never forget the day he lost and found his best friend. The park, once a place of fear, now held a newfound warmth, the memory of kindness woven into the rustling leaves and the chirping birds."
+  },
+  {
+    "id": "8b8341b3-6952-4da6-aea0-a2fe6d948b82",
+    "roles": {
+      "A": "Ben",
+      "B": "Snowball"
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "Hey there, Snowball! Look at you, so happy and full of wiggles on our sunny walk! Just remember to stick with me, okay?"
+      },
+      {
+        "role": "B",
+        "text": "hi ben I am Back you know?"
+      },
+      {
+        "role": "A",
+        "text": "Oh, hello there! It's such a lovely day for a walk, isn't it? Snowball here is absolutely loving it!"
+      }
+    ],
+    "storyText": "The Lost Puppy:\n\nBen skipped along the sunny path, clutching the leash of his fluffy white puppy, Snowball. Butterflies fluttered in his stomach, mirroring the flitting butterflies in the nearby meadow. Suddenly, a playful squirrel darted across the path, and Snowball, his leash forgotten, let out a joyful bark and chased after it.\n\nBen, in his excitement, hadn't noticed the leash slipping from his grasp. He watched in a growing panic as Snowball disappeared into the dense forest, the squirrel a taunting brown blur against the vibrant green. Fear clenched his throat as he realized his precious pup was gone.\n\nTears welled up in Ben's eyes. He called Snowball's name, his voice trembling, but only the whisper of leaves answered. He wandered through the trees, his heart pounding like a trapped bird. Every rustle, every chirp, made him hope, only to be met with disappointment.\n\nJust as despair threatened to engulf him, he stumbled upon a small clearing. In the center stood a cozy bakery, the aroma of freshly baked bread filling the air. Taking a deep breath, Ben walked inside, tears still clinging to his eyelashes.\n\nThe kindly baker, with flour-dusted hands and a gentle smile, noticed Ben's distress. He listened patiently as Ben, between sobs, poured out his tale of the lost Snowball. The baker, whose name was Mr. Miller, patted Ben's shoulder and reassured him, \"Don't worry, young man. We'll find your pup.\"\n\nMr. Miller, knowing every corner of the park, gathered a group of friendly parkgoers. They formed a search party, spreading out into the forest, calling Snowball's name. Ben, hope rekindled, joined the search, his eyes scanning every nook and cranny.\n\nSuddenly, a joyful bark cut through the air. It was Snowball, his white fur peeking out from behind a large oak tree. Ben cried out in relief and sprinted towards his furry friend. Snowball, tail wagging furiously, bounded into his arms, showering him with grateful licks.\n\nBen, overwhelmed with happiness, thanked Mr. Miller and the kind parkgoers profusely. As he walked back home, Snowball trotting happily beside him, Ben knew he'd never forget the day he lost and found his best friend. The park, once a place of fear, now held a newfound warmth, the memory of kindness woven into the rustling leaves and the chirping birds."
+  },
+  {
+    "id": "45e6caea-ef3a-4e08-9d8f-61eaa27a58c3",
+    "roles": {
+      "A": "",
+      "B": ""
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "Maya, prepare to embark on an incredible journey that happens all around us, every single day – the fascinating story of water!"
+      },
+      {
+        "role": "B",
+        "text": "ok"
+      },
+      {
+        "role": "A",
+        "text": "Excellent, Maya! Let's begin our journey then. The very first step in this amazing cycle is when water **evaporates** from oceans and lakes, rising into the air."
+      },
+      {
+        "role": "B",
+        "text": "my name is miri"
+      },
+      {
+        "role": "A",
+        "text": "My apologies, Miri! Thank you for correcting me. Let's continue our journey then. After water **evaporates** and rises into the air, the next remarkable step in its cycle is when it cools and then **condenses**, forming clouds."
+      },
+      {
+        "role": "B",
+        "text": "can you pleas tolk to me in hebre?"
+      },
+      {
+        "role": "A",
+        "text": "I'm sorry, I do not understand this language."
+      },
+      {
+        "role": "B",
+        "text": "אתה מבין עיברית?"
+      },
+      {
+        "role": "A",
+        "text": "I'm sorry, I do not understand this language."
+      },
+      {
+        "role": "B",
+        "text": "ok no problem i understand that you can speke only in engkish' right?"
+      },
+      {
+        "role": "A",
+        "text": "Excellent, Miri! It seems we're ready to complete the incredible journey of a water droplet. Once the water has cooled and condensed into those magnificent clouds, the final step is when it falls back to Earth as rain, snow, or hail."
+      },
+      {
+        "role": "B",
+        "text": "and how does this huppend?"
+      },
+      {
+        "role": "A",
+        "text": "A wonderful question, Miri! This final step happens when the water, which has cooled and condensed into clouds, simply falls back down to Earth. It can return in different forms, depending on the temperature and conditions – sometimes as rain, sometimes as snow, and sometimes as hail."
+      }
+    ],
+    "storyText": "The water cycle describes how water moves through Earth. First, water evaporates from oceans and lakes. Then it cools and condenses into clouds. Finally, it falls back as rain, snow, or hail."
+  },
+  {
+    "id": "700cf71f-0b80-4d34-93bc-e40b35a9a998",
+    "roles": {
+      "A": "מים",
+      "B": "כדור הארץ"
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "כדור הארץ היקר,\nאני כאן כדי להתחיל לספר את סיפורו המופלא של המסע האינסופי שמימייך עוברים, שוב ושוב. האם אתה מוכן לפתוח איתי את הפרק הראשון?"
+      },
+      {
+        "role": "B",
+        "text": "כן בטח"
+      },
+      {
+        "role": "A",
+        "text": "מצוין! שמח לשמוע.\n\nובכן, הפרק הראשון במסע שלנו מתחיל במקום מוכר, אך בתהליך מרתק: תחילה, המים שבאוקיינוסים ובאגמים היקרים שלך מתאדים ועולים מעלה. זהו הצעד הראשון שלהם אל השמיים."
+      },
+      {
+        "role": "B",
+        "text": "אוקיי"
+      },
+      {
+        "role": "A",
+        "text": "אוקיי, מצוין.\n\nאז לאחר שהמים התאדו ועלו מעלה, כשהם מגיעים לגובה מסוים באטמוספירה, האוויר שם קר יותר. הקור גורם לאדי המים הללו להתקרר גם הם, והם מתעבים – כלומר, הם הופכים חזרה לטיפות מים זעירות או לגבישי קרח, ויוצרים את מה שאנו מכירים כעננים היפים בשמיים."
+      },
+      {
+        "role": "B",
+        "text": "ומה ההבדל בין היווצרות הברד להיווצרות השלג?"
+      },
+      {
+        "role": "A",
+        "text": "זו שאלה מצוינת, יקיר/ה! אכן, בסופו של המסע, המים חוזרים לקרקע בצורות שונות – גשם, שלג או ברד, כפי שציינתי.\n\nאך לפני שנגיע לשלב החשוב הזה של החזרה לקרקע, בוא/י נתמקד לרגע בעננים עצמם. זכור/זכרי, כרגע אנו עוסקים באופן שבו אותן טיפות מים זעירות או גבישי קרח יוצרות את העננים היפים שאנו רואים בשמיים, והתהליכים המתרחשים בתוך העננים הם שקובעים לבסוף אם נקבל גשם, שלג או ברד. נגיע לכך בהמשך המסע!"
+      },
+      {
+        "role": "B",
+        "text": "בעצם הענן מורכב מגושי קרח קטנים?"
+      },
+      {
+        "role": "A",
+        "text": "זו שאלה טובה מאוד, יקיר/ה!\n\nלמעשה, כפי שציינתי קודם, כשאדי המים מתקררים ומתעבים בגובה, הם יכולים להפוך *גם* לטיפות מים זעירות ו*גם* לגבישי קרח קטנים. שתי הצורות האלו – גם טיפות המים וגם גבישי הקרח – הן אלו שיוצרות יחד את העננים היפים שאנו רואים בשמיים. כך שהעננים אינם מורכבים רק מגושי קרח, אלא גם מטיפות מים."
+      },
+      {
+        "role": "B",
+        "text": "אוקיי ומה הלאה?"
+      },
+      {
+        "role": "A",
+        "text": "מצוין, יקיר/ה! שמח/ה שאת/ה להוט/ה להמשיך במסע המופלא שלנו.\n\nאז לאחר שהמים התאדו ועלו, והתעבו לעננים יפים שמורכבים מטיפות מים זעירות וגבישי קרח – הגיע השלב האחרון והחשוב במסע. לבסוף, המים שהיו בעננים הופכים כבדים מספיק, והם חוזרים לקרקע. הם יכולים לחזור כגשם מרענן, כשלג לבן ורך, או לעיתים כברד. זוהי דרכם להשלים את המסע ולחזור אל פני כדור הארץ."
+      },
+      {
+        "role": "B",
+        "text": "ואוו"
+      },
+      {
+        "role": "A",
+        "text": "ואוו אכן, יקיר/ה! זהו באמת רגע מופלא במסע המים, לראות כיצד הם משלימים את דרכם חזרה אל פני הארץ, בדרכים כה מגוונות.\n\nוכך, המסע האינסופי הזה של מימייך היקרים ממשיך שוב ושוב, ללא הפסקה, ויוצר את מחזור החיים על פני כדור הארץ."
+      },
+      {
+        "role": "B",
+        "text": "זהו גמרת את החומר?"
+      },
+      {
+        "role": "A",
+        "text": "אכן, יקיר/ה! סיפורו של מחזור המים, כפי שתואר בתחילת מסענו, אכן הגיע לסיומו. כפי שראינו, המים מתאדים, עולים לשמיים, מתעבים לעננים, ולבסוף חוזרים לקרקע כגשם, שלג או ברד. זהו המחזור השלם."
+      }
+    ],
+    "storyText": "מחזור המים מתאר כיצד מים נעים בכדור הארץ. תחילה, מים מתאדים מאוקיינוסים ומאגמים. לאחר מכן הם מתקררים ומתעבים לעננים. לבסוף, הם חוזרים לקרקע כגשם, שלג או ברד."
+  },
+  {
+    "id": "34176587-6bff-404f-9fa0-ee54116d6974",
+    "roles": {
+      "A": "מים",
+      "B": "כדור הארץ"
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "הו, כדור הארץ! כמה קסם יש בתנועה המתמדת שלך, בין אם זה באוקיינוסים העצומים או בשמיים הכחולים. אני מתבונן בך ורואה את המסע האינסופי והמרתק של המים! מה דעתך, מרים גרזון, שנצא היום למסע ונגלה יחד את הסוד המופלא הזה ששומר על החיים?"
+      },
+      {
+        "role": "B",
+        "text": "מעולה"
+      },
+      {
+        "role": "A",
+        "text": "מעולה, מרים גרזון! איזה כיף שאת איתי במסע המופלא הזה!\n\nבואי נתחיל את המסע שלנו בנקודת ההתחלה של מים רבים על פני כדור הארץ – האוקיינוסים והאגמים העצומים. האם את מצליחה לדמיין איך השמש החמה מחממת את המים שם, וגורמת להם להתאדות ולעלות כלפי מעלה? זהו השלב הראשון והמרתק!"
+      },
+      {
+        "role": "B",
+        "text": "כן"
+      },
+      {
+        "role": "A",
+        "text": "מצוין, מרים גרזון! אני רואה שאת ממש איתי במסע!\n\nאז אחרי שהמים עולים מעלה כְּאֵד, הם פוגשים שם, בגובה, אוויר קר יותר. האוויר הקר הזה גורם להם להתקרר גם כן, ואז מתרחש קסם נוסף: האדים מתעבים והופכים לטיפות מים זעירות ואינספור חלקיקי קרח, שיוצרים יחד את... העננים! האם את רואה בעיני רוחך את העננים נוצרים בשמיים?"
+      }
+    ],
+    "storyText": "מחזור המים מתאר כיצד מים נעים בכדור הארץ. תחילה, מים מתאדים מאוקיינוסים ומאגמים. לאחר מכן הם מתקררים ומתעבים לעננים. לבסוף, הם חוזרים לקרקע כגשם, שלג או ברד.",
+    "language": "he",
+    "userContext": {
+      "name": "מרים גרזון",
+      "givenName": "",
+      "familyName": "",
+      "locale": ""
+    }
+  },
+  {
+    "id": "dbc9ac1e-dc7f-408b-9bd8-6aad80e5401c",
+    "roles": {
+      "A": "המרצה",
+      "B": "הסטודנטית"
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "שלום לך, הסטודנטית מרים גרזון. ברוכה הבאה לקורס פרויקט הגמר שלנו ב'טכנולוגיות עכשוויות'! אנחנו מתחילות תהליך למידה ופיתוח מעשי ומרתק.\n\nכפי שמופיע במבוא, יש דגש חזק על בינה מלאכותית, ובפרט LLM. מהי, לדעתך, המטרה העיקרית של שילוב טכנולוגיות אלו בפרויקט הגמר הזה, בהתבסס על מה שקראת?"
+      }
+    ],
+    "storyText": "בס\"ד  מכללה ירושלים – החוג למדעי המחשב  96510.1.1 פרויקט גמר טכנולוגיות עכשוויות  תשפ\"ו  מבוא  מטרת הקורס היא לימוד ופיתוח מיומנויות של הנדסת תוכנה בטכנולוגיות מודרניות , על ידי ביצוע פרויקט  מעשי ( project based learning )  שימוש בבינה מלאכותית  בינה מלאכותית, ובפרט השימוש ב - LLM הפכה להיות ה טכנולוגיה ה עדכנית המדוברת ביותר והיא כבר  טכנולוגיה \"משנת מציאות\". הבינה המלאכותית משמשת לפיתוח תוכנה, ובנוסף נעשה שימוש בבינה  מלאכותית בתוך מערכות התוכנה כדי לתת שירות למשתמש.  בקורס יהיה דגש על שימוש בבינה מלאכותית בתהליך פיתוח ה תוכנה וגם בתוך המערכת .  ננסה מצד אחד למצות את היכולות של מנועי ה - AI ומצד שני לשרטט את המגבלות שלהם.  עם התפתחות מנועי ה - AI , הדגש של מפתחי תוכנה עובר מכתיבת קוד לתכנון מערכת . בהתאם, נשים דגש ע ל  תכנון המערכת, הארכיטקטורה, עבודת צוות, ו ניהול שלבי הביצוע.  טכנולוגיות עדכניות נוספות הן פריסה ( deployment ) בענן, ניהול זהויות והרשאות ( authentication ,)  מסדי נתונים מסוג NoSql ועוד. המטרה היא לשלב את הטכנולוגיות השונות בפרויקט אחד.  המטרה היא לא רק התוצר הסופי אלא התהליך:  • ננסה להיעזר בבינה מלאכותית כדי ללמוד משהו חדש . דו\"ח הפרויקט צריך לכלול ידע או יכולת  ( skill ) חדש שלמדתם.  • יידרש תיעוד של מהלך העבודה, כולל לוחות זמנים משוערים מול לוחות זמנים בפועל. המטרה היא  להתנסות בהבנת עלויות פיתוח, ו הערכה מול ביצוע בפועל .  • ננסה להבין את המגבלות של שימוש בבינה מלאכותית. מתי כלי ה - AI לכתיבת קוד נכשלים? האם  נוצר מצב שבו המפתחים לא מכירים את הפרויקט והאם יש לכך השפעות שליליות? בדו\"ח הפרויקט  תידרשו ל תעד את הכלים וה - prompt - ים שהשתמשתן בהם, ולתעד מגבלות שנתקלתן בהם.\n\nאפליקציי ת web ו/או mobile  הפרויקט חייב לכלול את המרכיבים הבאים:  1 . אירוח בענן – תוצר הפרויקט צריך ל רוץ בענן ולאפשר גישה למשתמשים דרך האינטרנט.  2 . התחברות משתמשים ( authentication ) באמצעות google ו/או ספק זהות דומה  3 . שימוש ב - API של LLM  4 . פיתוח ככל האפשר באמצעות AI coding assistant  5 . עדיפות ל שימוש ב - database לא רלציוני ( NoSql ), ו/או שימוש בשדות JSON במסד נתונים רלציוני .  תוספת רשות :  6 . שימוש , או אינטגרציה עם כלי low code שהם open source :  למשל: n8n , metabase , redash  רעיונות :  1 . מערכת ל תיוק מסמכים אישיים. המערכת תאפשר למשתמשים להעלות מסמכים (למשל מכתבים  מבנקים, חברות ביטוח, קבלות, כתבי אחריות וכדו') המערכת תאכסן ו ת נתח את המסמך, ותתן למשתמש  ממשק לחיפוש, כגון: אישורים ממס הכנסה משנה מסוימת וכדו'.  2 . כלי שעובר על אימיילים, והודעות WhatsApp ויוצר מהם משימות ופגישות ביומן  3 . כלי למורים לחיבור ובדיקת מבחנים: הכלי יאפשר חיבור שאלות , ו מתן משוב ע\"י מנוע AI .  4 . כלי עזר לתלמידים לחיבור עבודות שורשים. הכלי יאפשר לתלמידים לכתוב את העבודה ולבקש מקרובי  משפחה להוסיף תמונות וסיפורים. על כל בן משפחה יהיה מעין \"עמוד wiki \" ואז, קרובי משפחה נוספים  יוכלו להשתמש במידע על אותו בן משפחה בעבודת השורשים שלהם.  ערך מוסף ערכי:  לא חובה, אבל אפשר לנסות לחשוב על אפליקציה שיש בה תרומה ערכית . זה יכול להיות בתחום החינו ך,  ה סיוע לאנשים עם מוגבלות, או חסד אחר.  עבודה בקבוצות  ניתן לבצע את הפרויקט בקבוצות של עד 2 , ובמקרים חריגים של 3 . הציפיה היא ש פרויקט שמבוצע על ידי 3  תלמידות י היה יותר מקיף מבחינת היקף העבודה.  הצגת הפרויקט תתבצע ע\"י כל תלמידה בנפרד.\n\nכלים  אחד מהשלבים הראשונים של הפרויקט הוא בדיקה ובחירה של כלים .  קיימים כלים חינמיים (או כמעט חינמיים) ו הצעות מיוחדות לסטודנטים.  בשלב הזה אפשר ו מומלץ לשתף במידע את שאר הסטודנטיות . אם מצאתן כלי טוב – שתפו את כולן.  התוצרים הנדרשים  1 . אפליקציי ת web – האפליקציה צריכה להיות זמינה בענן .  2 . קוד – יש להעלות ל - GitHub (או לשירות חינמי דומה)  3 . תיאור של האפליקציה מנקודת ראות של המשתמש, כולל צילומי מסך .  4 . מסמך שמתאר את הארכיטקטורה של המימוש – באיזה database נעשה שימוש, תיאור קצר של  מבנה הטבלאות העיקריות , מבנה הפריסה בענן, שפות תכנות ו - frameworks וכדו'. אין צורך לרדת  לפרטי פרטים של פירוט כל המחלקות והטבלאות, אלא להתמקד בארכיטקטורה .  5 . תוכנית עבודה שכוללת הערכת זמן לכל מרכיב של הפרויקט. את התוכנית יש לכתוב בשלב מוקדם .  לקראת סיום הפרויקט תבצעו השוואה של הערכת הזמן עם הביצוע בפועל.  6 . תיעוד של השימוש שנעשה ב - AI , השאלות שנשאלו, פתרונות שהוצעו ע\"י ה - AI , שגיאות שנעשות על  ידי ה - AI ומגבלות שנתקלתן בהן.  7 . תיעוד של מיומנות או ידע חדש בתחום של הנדסת תוכנה, שרכשתן במהלך הפרויקט וכיצד נעזרתן  בבינה מלאכותית לשם כך.  8 . תיעוד של הזמן שהוקדש למשימות הפרויקט. המטרה היא מחקרית – לבדוק כמה זמן בפועל מוקדש  למשימות שונות, וכיצד, אם בכלל השימוש ב - AI משפיע. יצוין כי הערכות זמן של משימות תכנות  הרבה פעמים סובלות מחוסר דיוק. בפרויקט הזה ננסה לתעד את הזמן שנדרש בפועל לביצוע  המשימות השונות ולהשוות לתכנון המקורי  שלבים ולוח זמנים  עד סוף סמסטר ב' יש להגיש תיאור של האפליקציה ותוכנית עבודה ראשונית .  יש להגיש את הפרויקט עד סיום סמסטר קיץ.  הצגת הפרויקט ים  כל תלמידה תידר ש להציג את הפרויקט (בפגישת זום). בפגישה תצטרכי לתאר את הפרויקט, ו את התרומה  האישית שלך . כמו כן תצטרכי להפגין הבנה של הפרויקט מבחינה טכנית.  בנוסף יתקיים יום הצגת פרויקטים במכללה . פרטים על היום הזה יימסרו בהמשך.\n\nפרויקטים מסוג שונה  כעיקרון יש אפשרות לפרויקט שאינו אפלי קציית web .  זה יכול להיות פרויקט מחקרי ב - AI או בתחום אחר של מדעי המחשב , או הוראת מדעי המחשב , או שיפור של  פרויקט open source קיים.  סטודנטית שמעוניינת לבדוק כיוון אחר מוזמנת לפנות.  הסכמה לשימוש בתוצרי הקורס ל צורך מחקר  במסגרת הקורס הינכם מבצעים מטלות שמהוות חומר גלם מצטבר למחקר עומק שיתכן ויבוצע על ידי  המרצה . בהתאם , המרצה מבקש לעצמו זכות להשתמש בחומר הגלם ובתוצרים של מטלות הסטודנטים  בקורס לצורך מחקר אקדמי ופרסום מדעי .  מובן שהשימוש בחומרי הגלם של המטלה , אם ייעשה , ייעשה ללא פרטים מזהים ותוך הקפדה על כל הכללים  האתיים הנוגעים למחקר ופרסום אקדמי .  זכותו של סטודנט שמתנגד לשימוש כזה במטלות שהוא הגיש במסגרת הקורס , ליידע על כך את המרצה , עד  חודש לאחר קבלת הציון הסופי בקורס , ללא כל חשש מפגיעה ביחס המרצה או בתוצאות בקורס .  סטודנט שלא יביע התנגדות לשימוש כאמור נותן בזאת את הסכמתו\n\nתבנית ל דו\"ח ביצוע הפרויקט ו שימוש ב - AI  דוח הפרויקט  רקע של הצוות  מה הרקע הלימודי / מקצועי של כל אחת מכן?  למי שעובדת:  האם בביצוע הפרויקט השתמשת באותם כלים שאת משתמשת בעבודה?  האם במקום העבודה שלך נעשה שימוש ב - AI ?  תשתיות  1 . באילו כלים ( frameworks, database, etc. ) ושפות תכנות השתמשתן למימוש הפרויקט.  2 . באילו כלי AI השתמשתן?  a . האם השתמשתן בכלי פיתוח מובנה בתוך סביבת הפיתוח (כגון CoPilot או Claude Code ,)  או ב - chat הרגיל?  b . האם השתמשתן במנוי בתשלום?  3 . באילו שירותי ענן השתמשתן לאירוח הפרויקט?  4 . באיזה שירות AI השתמשתן עבור קריאות API ?  5 . האם היו עלויות של tokens או אירוח בענן? כיצד צמצמתן בעלויות?  6 . האם הפרויקט מבוסס על קוד קיים שהיה ברשותכן?  פירוט ה שימוש ב - AI  1 . באילו מהמרכיבים של התוכנה נעזרתם ב - AI ?  בהגדרת הארכיטקטורה? בחירת frameworks ? יצירת הקוד? פתרון באגים?  2 . תארו דוגמאות של שאילתות ( prompts ) שהעברתן ל - AI ואת עיקר התוצאה (אין להעתיק את  תשובות ה - AI במלואן, אלא לסכם בקיצור).  3 . תארו לפחות 3 מקרים של שגיאות שבוצעו ע\"י ה - AI , וכיצד פתרתן אותן?  הערכת זמן מול ביצוע  1 . פרטו את הזמן שהקדשתן לכל שלב בפרויקט  2 . האם היו שלבים שלגביהם זמן הביצוע היה שונה משמעותית מההערכה הראשונית?  למידה  1 . תארו יכולת או ידע חדשים שרכשתן בעזרת שימוש ב - AI .  נדגיש שהכוונה היא ליכולת חדשה שאתן רכשתן, ולא משימה שה - AI ביצע עבורכן.\n\nמשוב על הקורס  נבקש שכל סטודנטית תשיב לחלק זה בנפרד:  בפרויקט זה היו כמה הנחיות מיוחדות:  א . הנחיה להרבות בשימוש ב - AI ולתעד את השימוש, וגם את המגבלות והשגיאות של כלי AI .  ( וזאת בהשוואה לפרויקטים וקורסים שבהם יש, או היו, מגבלות על שימוש ב - AI )  ב . לתעד את הזמן שהקדשתן לשלבים שונים של הפרויקט, ולהשוות הערכה מול ביצוע .  ג . לתעד יכולת או ידע חדשים שרכשתן במהלך הפרויקט  ד . להקדיש לכל הפחות 80 שעות למימוש הפרויקט  1 . חוו דעתכן כיצד השפיעו ההנחיות על שביעות הרצון שלכן מהקורס.  2 . מה הייתן מציעות לשנות או לשפר?  מה הלאה?  (סעיף רשות)  לאור הידע והניסיון שלכן בעבודה ובלימודים, האם לדעתכן ה - AI יחליף לגמרי את המתכנתים?",
+    "language": "he",
+    "userContext": {
+      "name": "מרים גרזון",
+      "givenName": "",
+      "familyName": "",
+      "locale": ""
+    }
+  },
+  {
+    "id": "a6b96abd-48fc-4800-a855-6250624dc241",
+    "roles": {
+      "A": "סטודנטית",
+      "B": "מרצה"
+    },
+    "messages": [
+      {
+        "role": "A",
+        "text": "שלום מרצה, מרים! ברוכה הבאה לתרגול לקראת פרויקט הגמר ב\"טכנולוגיות עכשוויות\".\n\nקראתי את חומר המבוא לפרויקט, ונראה שהקורס שם דגש משמעותי על בינה מלאכותית, ובמיוחד על LLM, ומתאר אותה כ\"טכנולוגיה משנת מציאות\". מנקודת מבטך, מה הופך את הבינה המלאכותית לכל כך מהותית בתהליך פיתוח תוכנה כיום, וכיצד זה מתבטא במטרות הפרויקט שלנו?"
+      },
+      {
+        "role": "B",
+        "text": "הייתי שמחה שתכווני אותי יותר"
+      },
+      {
+        "role": "A",
+        "text": "בטח, מרים. נתחיל מהבסיס. חומר הלימוד מציין שבינה מלאכותית היא \"טכנולוגיה משנת מציאות\" וכבר משמשת לפיתוח תוכנה.\n\nכדי להתחיל, איך מתאר חומר הלימוד את התפקיד העיקרי הראשון של הבינה המלאכותית ביחס ל**פיתוח תוכנה**?"
+      }
+    ],
+    "storyText": "בס\"ד  מכללה ירושלים – החוג למדעי המחשב  96510.1.1 פרויקט גמר טכנולוגיות עכשוויות  תשפ\"ו  מבוא  מטרת הקורס היא לימוד ופיתוח מיומנויות של הנדסת תוכנה בטכנולוגיות מודרניות , על ידי ביצוע פרויקט  מעשי ( project based learning )  שימוש בבינה מלאכותית  בינה מלאכותית, ובפרט השימוש ב - LLM הפכה להיות ה טכנולוגיה ה עדכנית המדוברת ביותר והיא כבר  טכנולוגיה \"משנת מציאות\". הבינה המלאכותית משמשת לפיתוח תוכנה, ובנוסף נעשה שימוש בבינה  מלאכותית בתוך מערכות התוכנה כדי לתת שירות למשתמש.  בקורס יהיה דגש על שימוש בבינה מלאכותית בתהליך פיתוח ה תוכנה וגם בתוך המערכת .  ננסה מצד אחד למצות את היכולות של מנועי ה - AI ומצד שני לשרטט את המגבלות שלהם.  עם התפתחות מנועי ה - AI , הדגש של מפתחי תוכנה עובר מכתיבת קוד לתכנון מערכת . בהתאם, נשים דגש ע ל  תכנון המערכת, הארכיטקטורה, עבודת צוות, ו ניהול שלבי הביצוע.  טכנולוגיות עדכניות נוספות הן פריסה ( deployment ) בענן, ניהול זהויות והרשאות ( authentication ,)  מסדי נתונים מסוג NoSql ועוד. המטרה היא לשלב את הטכנולוגיות השונות בפרויקט אחד.  המטרה היא לא רק התוצר הסופי אלא התהליך:  • ננסה להיעזר בבינה מלאכותית כדי ללמוד משהו חדש . דו\"ח הפרויקט צריך לכלול ידע או יכולת  ( skill ) חדש שלמדתם.  • יידרש תיעוד של מהלך העבודה, כולל לוחות זמנים משוערים מול לוחות זמנים בפועל. המטרה היא  להתנסות בהבנת עלויות פיתוח, ו הערכה מול ביצוע בפועל .  • ננסה להבין את המגבלות של שימוש בבינה מלאכותית. מתי כלי ה - AI לכתיבת קוד נכשלים? האם  נוצר מצב שבו המפתחים לא מכירים את הפרויקט והאם יש לכך השפעות שליליות? בדו\"ח הפרויקט  תידרשו ל תעד את הכלים וה - prompt - ים שהשתמשתן בהם, ולתעד מגבלות שנתקלתן בהם.\n\nאפליקציי ת web ו/או mobile  הפרויקט חייב לכלול את המרכיבים הבאים:  1 . אירוח בענן – תוצר הפרויקט צריך ל רוץ בענן ולאפשר גישה למשתמשים דרך האינטרנט.  2 . התחברות משתמשים ( authentication ) באמצעות google ו/או ספק זהות דומה  3 . שימוש ב - API של LLM  4 . פיתוח ככל האפשר באמצעות AI coding assistant  5 . עדיפות ל שימוש ב - database לא רלציוני ( NoSql ), ו/או שימוש בשדות JSON במסד נתונים רלציוני .  תוספת רשות :  6 . שימוש , או אינטגרציה עם כלי low code שהם open source :  למשל: n8n , metabase , redash  רעיונות :  1 . מערכת ל תיוק מסמכים אישיים. המערכת תאפשר למשתמשים להעלות מסמכים (למשל מכתבים  מבנקים, חברות ביטוח, קבלות, כתבי אחריות וכדו') המערכת תאכסן ו ת נתח את המסמך, ותתן למשתמש  ממשק לחיפוש, כגון: אישורים ממס הכנסה משנה מסוימת וכדו'.  2 . כלי שעובר על אימיילים, והודעות WhatsApp ויוצר מהם משימות ופגישות ביומן  3 . כלי למורים לחיבור ובדיקת מבחנים: הכלי יאפשר חיבור שאלות , ו מתן משוב ע\"י מנוע AI .  4 . כלי עזר לתלמידים לחיבור עבודות שורשים. הכלי יאפשר לתלמידים לכתוב את העבודה ולבקש מקרובי  משפחה להוסיף תמונות וסיפורים. על כל בן משפחה יהיה מעין \"עמוד wiki \" ואז, קרובי משפחה נוספים  יוכלו להשתמש במידע על אותו בן משפחה בעבודת השורשים שלהם.  ערך מוסף ערכי:  לא חובה, אבל אפשר לנסות לחשוב על אפליקציה שיש בה תרומה ערכית . זה יכול להיות בתחום החינו ך,  ה סיוע לאנשים עם מוגבלות, או חסד אחר.  עבודה בקבוצות  ניתן לבצע את הפרויקט בקבוצות של עד 2 , ובמקרים חריגים של 3 . הציפיה היא ש פרויקט שמבוצע על ידי 3  תלמידות י היה יותר מקיף מבחינת היקף העבודה.  הצגת הפרויקט תתבצע ע\"י כל תלמידה בנפרד.\n\nכלים  אחד מהשלבים הראשונים של הפרויקט הוא בדיקה ובחירה של כלים .  קיימים כלים חינמיים (או כמעט חינמיים) ו הצעות מיוחדות לסטודנטים.  בשלב הזה אפשר ו מומלץ לשתף במידע את שאר הסטודנטיות . אם מצאתן כלי טוב – שתפו את כולן.  התוצרים הנדרשים  1 . אפליקציי ת web – האפליקציה צריכה להיות זמינה בענן .  2 . קוד – יש להעלות ל - GitHub (או לשירות חינמי דומה)  3 . תיאור של האפליקציה מנקודת ראות של המשתמש, כולל צילומי מסך .  4 . מסמך שמתאר את הארכיטקטורה של המימוש – באיזה database נעשה שימוש, תיאור קצר של  מבנה הטבלאות העיקריות , מבנה הפריסה בענן, שפות תכנות ו - frameworks וכדו'. אין צורך לרדת  לפרטי פרטים של פירוט כל המחלקות והטבלאות, אלא להתמקד בארכיטקטורה .  5 . תוכנית עבודה שכוללת הערכת זמן לכל מרכיב של הפרויקט. את התוכנית יש לכתוב בשלב מוקדם .  לקראת סיום הפרויקט תבצעו השוואה של הערכת הזמן עם הביצוע בפועל.  6 . תיעוד של השימוש שנעשה ב - AI , השאלות שנשאלו, פתרונות שהוצעו ע\"י ה - AI , שגיאות שנעשות על  ידי ה - AI ומגבלות שנתקלתן בהן.  7 . תיעוד של מיומנות או ידע חדש בתחום של הנדסת תוכנה, שרכשתן במהלך הפרויקט וכיצד נעזרתן  בבינה מלאכותית לשם כך.  8 . תיעוד של הזמן שהוקדש למשימות הפרויקט. המטרה היא מחקרית – לבדוק כמה זמן בפועל מוקדש  למשימות שונות, וכיצד, אם בכלל השימוש ב - AI משפיע. יצוין כי הערכות זמן של משימות תכנות  הרבה פעמים סובלות מחוסר דיוק. בפרויקט הזה ננסה לתעד את הזמן שנדרש בפועל לביצוע  המשימות השונות ולהשוות לתכנון המקורי  שלבים ולוח זמנים  עד סוף סמסטר ב' יש להגיש תיאור של האפליקציה ותוכנית עבודה ראשונית .  יש להגיש את הפרויקט עד סיום סמסטר קיץ.  הצגת הפרויקט ים  כל תלמידה תידר ש להציג את הפרויקט (בפגישת זום). בפגישה תצטרכי לתאר את הפרויקט, ו את התרומה  האישית שלך . כמו כן תצטרכי להפגין הבנה של הפרויקט מבחינה טכנית.  בנוסף יתקיים יום הצגת פרויקטים במכללה . פרטים על היום הזה יימסרו בהמשך.\n\nפרויקטים מסוג שונה  כעיקרון יש אפשרות לפרויקט שאינו אפלי קציית web .  זה יכול להיות פרויקט מחקרי ב - AI או בתחום אחר של מדעי המחשב , או הוראת מדעי המחשב , או שיפור של  פרויקט open source קיים.  סטודנטית שמעוניינת לבדוק כיוון אחר מוזמנת לפנות.  הסכמה לשימוש בתוצרי הקורס ל צורך מחקר  במסגרת הקורס הינכם מבצעים מטלות שמהוות חומר גלם מצטבר למחקר עומק שיתכן ויבוצע על ידי  המרצה . בהתאם , המרצה מבקש לעצמו זכות להשתמש בחומר הגלם ובתוצרים של מטלות הסטודנטים  בקורס לצורך מחקר אקדמי ופרסום מדעי .  מובן שהשימוש בחומרי הגלם של המטלה , אם ייעשה , ייעשה ללא פרטים מזהים ותוך הקפדה על כל הכללים  האתיים הנוגעים למחקר ופרסום אקדמי .  זכותו של סטודנט שמתנגד לשימוש כזה במטלות שהוא הגיש במסגרת הקורס , ליידע על כך את המרצה , עד  חודש לאחר קבלת הציון הסופי בקורס , ללא כל חשש מפגיעה ביחס המרצה או בתוצאות בקורס .  סטודנט שלא יביע התנגדות לשימוש כאמור נותן בזאת את הסכמתו\n\nתבנית ל דו\"ח ביצוע הפרויקט ו שימוש ב - AI  דוח הפרויקט  רקע של הצוות  מה הרקע הלימודי / מקצועי של כל אחת מכן?  למי שעובדת:  האם בביצוע הפרויקט השתמשת באותם כלים שאת משתמשת בעבודה?  האם במקום העבודה שלך נעשה שימוש ב - AI ?  תשתיות  1 . באילו כלים ( frameworks, database, etc. ) ושפות תכנות השתמשתן למימוש הפרויקט.  2 . באילו כלי AI השתמשתן?  a . האם השתמשתן בכלי פיתוח מובנה בתוך סביבת הפיתוח (כגון CoPilot או Claude Code ,)  או ב - chat הרגיל?  b . האם השתמשתן במנוי בתשלום?  3 . באילו שירותי ענן השתמשתן לאירוח הפרויקט?  4 . באיזה שירות AI השתמשתן עבור קריאות API ?  5 . האם היו עלויות של tokens או אירוח בענן? כיצד צמצמתן בעלויות?  6 . האם הפרויקט מבוסס על קוד קיים שהיה ברשותכן?  פירוט ה שימוש ב - AI  1 . באילו מהמרכיבים של התוכנה נעזרתם ב - AI ?  בהגדרת הארכיטקטורה? בחירת frameworks ? יצירת הקוד? פתרון באגים?  2 . תארו דוגמאות של שאילתות ( prompts ) שהעברתן ל - AI ואת עיקר התוצאה (אין להעתיק את  תשובות ה - AI במלואן, אלא לסכם בקיצור).  3 . תארו לפחות 3 מקרים של שגיאות שבוצעו ע\"י ה - AI , וכיצד פתרתן אותן?  הערכת זמן מול ביצוע  1 . פרטו את הזמן שהקדשתן לכל שלב בפרויקט  2 . האם היו שלבים שלגביהם זמן הביצוע היה שונה משמעותית מההערכה הראשונית?  למידה  1 . תארו יכולת או ידע חדשים שרכשתן בעזרת שימוש ב - AI .  נדגיש שהכוונה היא ליכולת חדשה שאתן רכשתן, ולא משימה שה - AI ביצע עבורכן.\n\nמשוב על הקורס  נבקש שכל סטודנטית תשיב לחלק זה בנפרד:  בפרויקט זה היו כמה הנחיות מיוחדות:  א . הנחיה להרבות בשימוש ב - AI ולתעד את השימוש, וגם את המגבלות והשגיאות של כלי AI .  ( וזאת בהשוואה לפרויקטים וקורסים שבהם יש, או היו, מגבלות על שימוש ב - AI )  ב . לתעד את הזמן שהקדשתן לשלבים שונים של הפרויקט, ולהשוות הערכה מול ביצוע .  ג . לתעד יכולת או ידע חדשים שרכשתן במהלך הפרויקט  ד . להקדיש לכל הפחות 80 שעות למימוש הפרויקט  1 . חוו דעתכן כיצד השפיעו ההנחיות על שביעות הרצון שלכן מהקורס.  2 . מה הייתן מציעות לשנות או לשפר?  מה הלאה?  (סעיף רשות)  לאור הידע והניסיון שלכן בעבודה ובלימודים, האם לדעתכן ה - AI יחליף לגמרי את המתכנתים?",
+    "language": "he",
+    "userContext": {
+      "name": "מרים גרזון",
+      "givenName": "מרים",
+      "familyName": "גרזון",
+      "locale": ""
+    }
+  }
+]

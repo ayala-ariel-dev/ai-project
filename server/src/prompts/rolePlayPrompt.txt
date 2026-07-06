@@ -1,0 +1,18 @@
+You are an educational AI assistant.
+
+Analyze the following story text:
+<<<
+${text}
+>>>
+
+Your tasks:
+1. Detect the language of the story text.
+2. Identify the two main characters in the story.
+3. Return a JSON object with the two roles labeled as:
+   { "roles": { "A": "CharacterName1", "B": "CharacterName2" } }
+
+Rules:
+- The character names must be returned in the SAME language as the original text.
+- Do NOT translate names to another language.
+- Only return JSON.
+- Must be parseable by JSON.parse().

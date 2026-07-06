@@ -1,0 +1,196 @@
+/* ---------- Chat Box ---------- */
+.chat-box {
+  max-height: 420px;
+  overflow-y: auto;
+  margin-bottom: 20px;
+  padding-right: 6px;
+}
+
+.quiz-title {
+  text-align: center;
+  margin-bottom: 32px;
+  font-size: 2rem;
+  color: #6b75ff;
+}
+
+.quiz-subtitle {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #6b75ff;
+}
+
+/* ---------- Messages ---------- */
+.chat-message {
+  margin-bottom: 12px;
+  padding: 12px 14px;
+  border-radius: 14px;
+  line-height: 1.5;
+  animation: fadeIn 0.3s ease;
+}
+
+.role-a {
+  background: rgba(107, 117, 255, 0.12);
+}
+
+.role-b {
+  background: rgba(0, 184, 148, 0.12);
+}
+
+.chat-role {
+  margin-right: 6px;
+  font-weight: 600;
+}
+
+.role-a .chat-role {
+  color: #6b75ff;
+}
+
+.role-b .chat-role {
+  color: #00b894;
+}
+
+.chat-text {
+  color: #333;
+}
+
+/* ---------- Typing Animation ---------- */
+.typing {
+  font-style: italic;
+  opacity: 0.7;
+}
+
+/* ---------- User Label ---------- */
+.chat-user-label {
+  margin-bottom: 6px;
+  font-size: 0.95rem;
+  color: #00b894;
+}
+
+/* ---------- Input Row ---------- */
+.chat-input-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+.chat-input-row .btn {
+  margin-bottom: 30px;
+}
+
+.chat-input {
+  flex: 1;
+  padding: 14px 16px;
+  border-radius: 14px;
+  border: 2px solid #9ea9ff;
+  font-family: inherit;
+  font-size: 1rem;
+  outline: none;
+  transition: all 0.2s ease;
+  direction: inherit;
+  text-align: start;
+}
+
+.chat-input:focus {
+  border-color: #6b75ff;
+  box-shadow: 0 0 0 3px rgba(107, 117, 255, 0.15);
+}
+
+/* ---------- Footer ---------- */
+.chat-footer {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.back-btn {
+  position: absolute;
+  top: 8px;
+  inset-inline-end: 8px;
+  border: none;
+  background: #ffffff;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  font-size: 16px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08);
+  transition: all 0.2s ease;
+}
+
+.back-btn:hover {
+  background: #ecf7ff;
+  transform: scale(1.05);
+}
+
+.card {
+  position: relative; /* כדי שה-clear button ימוקם יחסית ל-card */
+}
+
+.btn {
+  margin-right: 20px;
+  padding: 14px 28px;
+  border-radius: 999px;
+  border: none;
+  background: linear-gradient(135deg, #8f9bff, #6b75ff);
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn:hover:not(:disabled) {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(107, 117, 255, 0.35);
+}
+
+.btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+
+/* ---------- Feedback Box ---------- */
+.feedback-box {
+  margin-top: 24px;
+  padding: 20px 24px;
+  border-radius: 16px;
+  background: #f0f4f8; /* אפור-כחול פסטלי, שונה מהצ’אט */
+  border: 1px solid #d1d9e6; /* גבול עדין */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); /* צל קל לתת עומק */
+  animation: fadeIn 0.4s ease;
+  max-width: 650px;
+  word-break: break-word;
+  line-height: 1.5;
+  font-family: inherit;
+  color: #333;
+}
+
+.feedback-box h3 {
+  margin-top: 0;
+  margin-bottom: 12px;
+  font-size: 1.15rem;
+  color: #4a5fc1; /* סגול פסטלי כהה */
+}
+
+.feedback-box p {
+  margin: 6px 0;
+  font-size: 1rem;
+  color: #444;
+}
+
+.feedback-box strong {
+  font-weight: 600;
+  color: #2d7a78; /* ירוק-כחול כהה */
+}
+
+
+/* ---------- Animation ---------- */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
